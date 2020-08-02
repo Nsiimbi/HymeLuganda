@@ -1,0 +1,10 @@
+@import url(gray-theme.css);
+@import url(hlist.css);
+@import url(base.css);
+@import url(print.css);
+@import url(screen-FULLPAGE-layout.css);
+@import url(typography.css);
+
+.bookbutton {
+font-weight:bold; background-color:#F8E0E0; border:2px solid #F5A9A9; width:190px; height:30px; margin-top:5px;
+}
